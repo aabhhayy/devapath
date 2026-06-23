@@ -78,4 +78,4 @@ streamlit run app.py
 - **Scraping**: BeautifulSoup4, Requests
 - **AI/NLP**: LangChain, Groq (Llama 3), ChromaDB
 - **App**: Streamlit, Folium
-- **TTS**: gTTS (Google Text-to-Speech)
+
