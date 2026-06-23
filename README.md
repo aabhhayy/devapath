@@ -1,7 +1,4 @@
-# 🛕 DevaPath — AI Temple Guide
-**Data Science Portfolio Project**
-
----
+# DevaPath — AI Temple Guide
 
 ## Project Structure
 
@@ -17,7 +14,7 @@ devapath/
 │   ├── raw/                      ← Scraped raw files
 │   └── processed/                ← Final master JSON
 ├── requirements.txt
-├── .env.example
+├── .env(api yha pr hai)
 └── README.md
 ```
 
@@ -27,26 +24,21 @@ devapath/
 
 ### Step 1 — Environment Setup
 ```bash
-# Virtual environment banao
+# Virtual environment
 python -m venv venv
 
-# Activate karo (Windows)
+# Activate (Windows)
 venv\Scripts\activate
 
-# Activate karo (Mac/Linux)
-source venv/bin/activate
-
-# Libraries install karo
+# Libraries install krni hai
 pip install -r requirements.txt
 ```
 
 ### Step 2 — API Keys Setup
 ```bash
-# .env.example copy krna hai
-cp .env.example .env
 
 # .env file open krke aur Groq key dalni hai
-# Groq key free hai: https://console.groq.com
+# Groq key free hai: https://console.groq.com milegi
 ```
 
 ### Step 3 — Data Scraping (In Order!)
@@ -64,7 +56,7 @@ python scrapers/03_overpass_fetcher.py
 python data_prep/04_merge_data.py
 ```
 
-### Step 4 — App chaleha
+### Step 4 — App chalega
 --esse phale folder ke andar steamlit ko "pip install stremalit" krna padega
 ```bash
 streamlit run app.py
