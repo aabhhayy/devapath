@@ -1,0 +1,547 @@
+[
+  {
+    "id": "kashi_vishwanath_temple_varanasi",
+    "name": "Kashi Vishwanath Temple",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "deity": "Shiva",
+    "lat": 25.3108256,
+    "lon": 83.0105711,
+    "history": "Kashi Vishwanath Temple is a Hindu temple dedicated to Shiva. It is located in Vishwanath Gali, in Varanasi, Uttar Pradesh, India. The temple is a Hindu pilgrimage site and is one of the twelve Jyotirlinga shrines. The presiding deity is known by the names Vishwanath and Vishweshwara (IAST: Viśvanātha and Viśveśvara), meaning Lord of the Universe.\nThe original temple, called the Adi Vishveshwar Temple, was demolished by Mohammad of Ghori during his invasion of India. Subsequently, the template was rebuilt by Man Singh I and Todar Mal under the emperor Akbar. \nAccording to several historical accounts, the Mughal Emperor Aurangzeb ordered the demolition of the Hindu temple in 1669. Subsequently, in 1678, the Gyanvapi Mosque was built on its site, but Hindu pilgrims continued to visit the remnants of the temple. Some scholars claim that the demolition was motivated by the rebellion of local zamindars (landowners) who were associated with the temple. The demolition was intended as a warning by Aurangzeb to the anti-Mughal factions and Hindu religious leaders in the city.\nThe current structure was constructed on an adjacent site by the Maratha ruler Ahilyabai Holkar of Indore in 1780. In 2021, a major redevelopment of the temple complex was completed, and the Kashi Vishwanath Dham Corridor connecting the Ganga river with the temple was inaugurated by Prime Minister Modi, leading to a many-fold increase in visitors. It has become one of the most visited Hindu temples in India, with an average 45,000 pilgrims per day in 2023. The total assets of the temple, were estimated to be more than ₹6 crores in 2024.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+    "opening_time": "03:00 AM",
+    "closing_time": "11:00 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "mangala_aarti": {
+        "time": "03:00 AM",
+        "description": "Pratah aarti — sabse pehli aarti, bhakt bahut kam hote hain"
+      },
+      "bhog_aarti": {
+        "time": "11:15 AM",
+        "description": "Dopahar ki aarti — bhog (prasad) chadhaya jaata hai"
+      },
+      "sandhya_aarti": {
+        "time": "07:00 PM",
+        "description": "Sham ki aarti — bahut bheed hoti hai"
+      },
+      "shringar_aarti": {
+        "time": "09:00 PM",
+        "description": "Shivling ka shringar kiya jaata hai"
+      },
+      "shayan_aarti": {
+        "time": "10:30 PM",
+        "description": "Raat ki antim aarti — Shivji ko sulaya jaata hai"
+      }
+    },
+    "best_visit_time": "Subah 3-5 AM (Mangala Aarti ke liye) ya sham 7 PM",
+    "special_days": [
+      "Maha Shivratri",
+      "Sawan Somvar",
+      "Purnima"
+    ],
+    "entry_fee": "Free (special darshan ke alag charges ho sakte hain)",
+    "dress_code": "Traditional dress preferred, shoulders covered karo",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "krishna_janmabhoomi_temple_mathura",
+    "name": "Krishna Janmabhoomi Temple",
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "deity": "Krishna",
+    "lat": 28.7141578,
+    "lon": 77.2103733,
+    "history": "Krishna Janmasthan Temple is a Hindu temple situated in Mathura, Uttar Pradesh, India. There are three main temples inside the premises -- Keshavdev temple which is dedicated to Krishna, Garbh Griha where Krishna is believed to be born in Dvapar Yuga and Bhagvata Bhavan where presiding deities are Radha Krishna.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Krishna_Janmabhoomi",
+    "opening_time": "05:00 AM",
+    "closing_time": "09:30 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "mangala": {
+        "time": "05:00 AM",
+        "description": "Pehli aarti"
+      },
+      "shringar": {
+        "time": "07:30 AM",
+        "description": "Krishna ka shringar"
+      },
+      "rajbhog": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "utthapan": {
+        "time": "04:00 PM",
+        "description": "Shaam ki shuruat"
+      },
+      "sandhya": {
+        "time": "07:00 PM",
+        "description": "Sham ki mukhya aarti"
+      },
+      "shayan": {
+        "time": "09:00 PM",
+        "description": "Antim aarti"
+      }
+    },
+    "best_visit_time": "Janmashtami ke din — lekin bahut zyada bheed",
+    "special_days": [
+      "Janmashtami",
+      "Holi",
+      "Radhashtami"
+    ],
+    "entry_fee": "Free",
+    "dress_code": "No shorts, no sleeveless",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "kedarnath_temple_kedarnath",
+    "name": "Kedarnath Temple",
+    "city": "Kedarnath",
+    "state": "Uttarakhand",
+    "deity": "Shiva",
+    "lat": 30.7352,
+    "lon": 79.0669,
+    "history": "Kēdāranātha Temple (Sanskrit: केदारनाथ मन्दिर, IAST: Kēdāranātha Mandira, lit. 'temple of the God of the field') is a Hindu temple, one of the twelve jyotirlinga of Śiva. The temple is located on the Garhwal Himalayan range \nnear the Mandākinī river, in the state of Uttarakhand, India. Due to extreme weather conditions, the temple is open to the general public only between the months of April (Akṣaya Tritiya) and November (Kārtika Pūrṇimā, the autumn full moon). During the winters, the vigraha (deity) of the temple is carried down to Ukhimath to be worshiped for the next six months. Kēdāranātha is seen as a homogeneous form of Śiva, the 'Lord of Kēdārakhaṇḍa', the historical name of the region.\nThe temple is not directly accessible by road and has to be reached by a 17 kilometres (11 mi) uphill trek from Gaurikuṇḍa. According to Hindu legends, the temple was initially built by the Pāṇḍavas, and is one of the twelve Jyotirlingas, the holiest Hindu shrines of Śiva. The Pāṇḍava were supposed to have pleased Śiva by doing penance in Kēdāranātha. The temple is one of the four major sites in India's Chota Char Dham pilgrimage of Northern Himalayas and is the first of the Pañca Kēdāra pilgrimage sites. This temple is the highest among the 12 Jyotirlingas. It is one of the 275 paadal petra sthalams expounded in the Tēvaram. This temple is sung of by Tirugnāṇasambandar, Appar, Sundarar and Sekkizhar in their Tēvaram texts.\nKēdāranātha was the worst affected area during the 2013 flash floods in North India. The temple complex, surrounding areas, and Kēdāranātha town suffered extensive damage, but the temple structure did not suffer any major damage. A large rock among the debris acted as a barrier, protecting the temple from the flood.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Kedarnath_Temple",
+    "opening_time": "04:00 AM",
+    "closing_time": "09:00 PM",
+    "seasonal_note": "Sirf May-November khulta hai (baaki time snow se band)",
+    "break_time": "",
+    "aarti": {
+      "pratah_aarti": {
+        "time": "04:00 AM",
+        "description": "Subah ki pehli aarti"
+      },
+      "abhishek_aarti": {
+        "time": "06:00 AM",
+        "description": "Shivling ka abhishek (snaan)"
+      },
+      "evening_aarti": {
+        "time": "07:30 PM",
+        "description": "Sham ki aarti, bahut sundar hoti hai"
+      }
+    },
+    "best_visit_time": "Subah 4-6 AM ya sham 6-7 PM",
+    "special_days": [
+      "Maha Shivratri",
+      "Opening Day (May)"
+    ],
+    "entry_fee": "Free",
+    "dress_code": "Warm clothes zaroor pehnein — bahut thanda hota hai",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "badrinath_temple_badrinath",
+    "name": "Badrinath Temple",
+    "city": "Badrinath",
+    "state": "Uttarakhand",
+    "deity": "Vishnu",
+    "lat": 28.5533448,
+    "lon": 77.1999646,
+    "history": "Badarinath Temple, also known as Badarinarayana Temple, is a Hindu temple dedicated to Vishnu. It is located in the town of Badrinath in Chamoli district of Uttarakhand, India. The temple is one of the 108 Divya Desams, sacred to Vaishnavism, where Vishnu is worshipped as Badrinath. Due to extreme weather conditions in the Himalayas, the temple is open for six months each year, from late April to early November. It is one of the most visited pilgrimage centers of India, having recorded 2.8 million (28 lakh) visits in just 2 months in 2022. It is one of the Char Dham pilgrimage sites.\nThe image of the presiding deity worshipped in the temple is a 1 ft (0.30 m), the black granite deity of Vishnu in the form of Badrinarayan. The deity is considered by many Hindus to be one of eight svayam vyakta kshetras, or self-manifested deities of Vishnu.\nThe temple was included in the Uttar Pradesh state government Act No. 30/1948 as Act no. 16,1939, which later came to be known as \"Shri Badarinath and Shri Kedarnath Mandir Act\". The committee nominated by the state government administers both the temples and has seventeen members on its board.\n\nThe temple is mentioned in ancient religious texts like Vishnu Purana and Skanda Purana. It is glorified in the Naalayira Divya Prabandham, an early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Badrinath_Temple",
+    "opening_time": "04:30 AM",
+    "closing_time": "09:00 PM",
+    "seasonal_note": "May se November khulta hai",
+    "break_time": "",
+    "aarti": {
+      "mahabhishek": {
+        "time": "04:30 AM",
+        "description": "Mukhya abhishek aarti"
+      },
+      "pratah_aarti": {
+        "time": "06:30 AM",
+        "description": "Subah darshan ke liye"
+      },
+      "madhyan_aarti": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "sandhya_aarti": {
+        "time": "07:30 PM",
+        "description": "Sham ki aarti"
+      }
+    },
+    "best_visit_time": "Subah 4:30-7 AM",
+    "special_days": [
+      "Opening day (Akshaya Tritiya)",
+      "Closing day (Bhai Dooj ke baad)"
+    ],
+    "entry_fee": "Free",
+    "dress_code": "Warm clothes zaroori",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "somnath_temple_veraval",
+    "name": "Somnath Temple",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "deity": "Shiva",
+    "lat": 28.5563996,
+    "lon": 77.0568107,
+    "history": "Somanatha Temple is a Hindu temple, located in Prabhas Patan, Veraval, in Gujarat, India. It is one of the most sacred pilgrimage sites, or Tirtha Kshetra for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. The date of construction of the earliest Somnath temple remains uncertain, with estimates varying between the early centuries of the 1st millennium and about the 9th century CE. Various texts, including the Mahabharata and Bhagavata Purana, mention a tirtha at Prabhas Patan on the coastline of Saurashtra, where the later temple would eventually be built, but archaeology has not found traces of an early temple, though there was a settlement there.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Somnath_temple",
+    "opening_time": "06:00 AM",
+    "closing_time": "09:30 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "pratah_aarti": {
+        "time": "07:00 AM",
+        "description": "Subah ki aarti"
+      },
+      "madhyan_aarti": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "sandhya_aarti": {
+        "time": "07:00 PM",
+        "description": "Sham ki aarti — light & sound show ke saath"
+      }
+    },
+    "best_visit_time": "Sham 7:30 PM — Light & Sound Show hota hai (bahut sundar)",
+    "special_days": [
+      "Maha Shivratri",
+      "Kartik Purnima"
+    ],
+    "entry_fee": "Free (light show: Rs 100 approximately)",
+    "dress_code": "No leather items allowed inside",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "dwarkadheesh_temple_dwarka",
+    "name": "Dwarkadheesh Temple",
+    "city": "Dwarka",
+    "state": "Gujarat",
+    "deity": "Krishna",
+    "lat": 27.5051686,
+    "lon": 77.6848965,
+    "history": "The Dwarkadhish temple, also known as the Jagat Mandir and occasionally spelled Dwarakadheesh, is a Hindu temple dedicated to Krishna, who is worshiped in the temple by the name Dwarkadhish (Sanskrit: द्वारकाधीश, IAST: Dvārakādhīśa, meaning: 'Lord of Dvārakā'). The temple is located in Dwarka city of Gujarat, India, which is one of the destinations of Char Dham, a Hindu pilgrimage circuit. The main shrine of the five-storied building, supported by 72 pillars, is known as Jagat Mandir or Nija Mandir. Archaeological findings suggest the original temple was built in 200 BCE at the earliest. The temple was rebuilt and enlarged in the 15th–16th century.\nThe temple became part of the Char Dham pilgrimage considered sacred by Hindus in India. Adi Shankara, the 8th century Hindu theologian and philosopher, visited the shrine. The other three being comprising Rameswaram, Badrinath and Puri. Even today a memorial within the temple is dedicated to his visit. Dwarakadheesh is the 98th Divya Desam of Vishnu on the subcontinent, glorified in the Divya Prabandha sacred texts. The temple is at an elevation of 12.19 metres (40.0 ft) above mean sea-level. It faces west. The temple layout consists of a garbhagriha (Nijamandira or Harigraha) and an antarala (an antechamber). The original structure was destroyed by Mahmud Begada in 1473. The existing temple is dated to 16th century.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple",
+    "opening_time": "06:30 AM",
+    "closing_time": "08:30 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "mangala_aarti": {
+        "time": "06:30 AM",
+        "description": "Pratah aarti"
+      },
+      "shringar_aarti": {
+        "time": "07:30 AM",
+        "description": "Shringar darshan"
+      },
+      "rajbhog_aarti": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "sandhya_aarti": {
+        "time": "07:00 PM",
+        "description": "Sham ki aarti"
+      },
+      "shayan_aarti": {
+        "time": "08:00 PM",
+        "description": "Antim aarti"
+      }
+    },
+    "best_visit_time": "Subah 6:30-9 AM",
+    "special_days": [
+      "Janmashtami",
+      "Dwarkadhish Mahotsav"
+    ],
+    "entry_fee": "Free",
+    "dress_code": "Traditional dress preferred",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "tirupati_balaji_temple_tirupati",
+    "name": "Tirupati Balaji Temple",
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "deity": "Vishnu",
+    "lat": 28.7302085,
+    "lon": 77.1070442,
+    "history": "The Venkateswara Swami Temple—also known as Tirumala Temple, Tirupati Temple, and Tirupati Balaji Temple—is a Hindu temple located in the hills of Tirumala, within Tirupati Urban Mandal, Tirupati district, Andhra Pradesh, India. The temple is dedicated to Venkateswara, a form of Vishnu, who is believed to have appeared on earth to save mankind from trials and troubles of Kali Yuga. Hence the site is also called Kaliyuga Vaikuntha and the deity is known as Kaliyuga Prathyaksha Daivam. Venkateswara is additionally known as Balaji, Govinda, and Srinivasa. The temple is administered by the Tirumala Tirupati Devasthanams (TTD), an autonomous body under the control of the Government of Andhra Pradesh. The head of TTD is appointed by Andhra Pradesh Government.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Tirumala_Venkateswara_Temple",
+    "opening_time": "02:30 AM",
+    "closing_time": "01:00 AM (next day)",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "thiruvanandal": {
+        "time": "02:30 AM",
+        "description": "Sabse pehli seva — pujari darshan"
+      },
+      "viswarupa": {
+        "time": "04:00 AM",
+        "description": "Vishnu ke sab roopon ka darshan"
+      },
+      "thomala_seva": {
+        "time": "08:00 AM",
+        "description": "Phool aur mala ka shringar"
+      },
+      "astadala_seva": {
+        "time": "01:00 PM",
+        "description": "Dopahar ki mukhya seva"
+      },
+      "dolotsavam": {
+        "time": "06:00 PM",
+        "description": "Sham ki aarti"
+      },
+      "ekanta_seva": {
+        "time": "12:00 AM",
+        "description": "Antim raat ki seva"
+      }
+    },
+    "best_visit_time": "Supatham darshan ke liye booking pehle se karo",
+    "special_days": [
+      "Brahmotsavam (Sep-Oct)",
+      "Vaikunta Ekadasi"
+    ],
+    "entry_fee": "Free darshan / Special darshan: Rs 300",
+    "dress_code": "Traditional — dhoti/saree compulsory for close darshan",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "meenakshi_amman_temple_madurai",
+    "name": "Meenakshi Amman Temple",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "deity": "Meenakshi",
+    "lat": 28.6327513,
+    "lon": 77.1989712,
+    "history": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). The temple is theologically significant as it represents a confluence of various denominations of Hinduism such as Shaivism, Shaktism, and Vaishnavism.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Meenakshi_Amman_Temple",
+    "opening_time": "05:00 AM",
+    "closing_time": "10:00 PM",
+    "seasonal_note": "",
+    "break_time": "12:30 PM - 04:00 PM",
+    "aarti": {
+      "thiruvanandal": {
+        "time": "05:00 AM",
+        "description": "Subah ki pehli aarti"
+      },
+      "kalasandhi": {
+        "time": "08:00 AM",
+        "description": "Subah ki mukhya aarti"
+      },
+      "uchikalam": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "sayarakshai": {
+        "time": "06:00 PM",
+        "description": "Sham ki aarti"
+      },
+      "ardhajaman": {
+        "time": "09:30 PM",
+        "description": "Raat ki aarti"
+      }
+    },
+    "best_visit_time": "Subah 6-9 AM ya sham 4-7 PM",
+    "special_days": [
+      "Meenakshi Thirukalyanam (April-May)",
+      "Navaratri"
+    ],
+    "entry_fee": "Free (camera: Rs 50)",
+    "dress_code": "Traditional — men me lungi/dhoti compulsory for inner sanctum",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "brihadeeswarar_temple_thanjavur",
+    "name": "Brihadeeswarar Temple",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "deity": "Shiva",
+    "lat": 25.2683166,
+    "lon": 82.9582511,
+    "history": "Brihadisvara Temple, called Rajarajesvaram by its builder, and known locally as Thanjai Periya Kovil and Peruvudaiyar Kovil, is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru. Built by Chola emperor Rajaraja I between 1003 and 1010 CE, the temple is a part of the UNESCO World Heritage Site known as the \"Great Living Chola Temples\", along with the Chola-era Gangaikonda Cholapuram temple and Airavatesvara temple, which are about 70 kilometres (43 mi) and 40 kilometres (25 mi) to its northeast respectively.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple,_Thanjavur",
+    "opening_time": "05:30 AM",
+    "closing_time": "09:30 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "mangala": {
+        "time": "05:30 AM",
+        "description": "Pratah aarti"
+      },
+      "shringar": {
+        "time": "07:15 AM",
+        "description": "Shrinathji ka shringar"
+      },
+      "gwal": {
+        "time": "10:00 AM",
+        "description": "Gwalon ke saath darshan"
+      },
+      "rajbhog": {
+        "time": "11:30 AM",
+        "description": "Dopahar ka bhog"
+      },
+      "uttapan": {
+        "time": "03:45 PM",
+        "description": "Break ke baad"
+      },
+      "sandhya": {
+        "time": "07:30 PM",
+        "description": "Sham ki aarti"
+      },
+      "shayan": {
+        "time": "09:00 PM",
+        "description": "Antim aarti"
+      }
+    },
+    "best_visit_time": "Sham 7:30 PM (Sandhya Darshan bahut sundar)",
+    "special_days": [
+      "Annakut (Diwali ke baad)",
+      "Janmashtami",
+      "Holi"
+    ],
+    "entry_fee": "Free",
+    "dress_code": "Decent dress, no shorts",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "jagannath_temple_puri",
+    "name": "Jagannath Temple",
+    "city": "Puri",
+    "state": "Odisha",
+    "deity": "Jagannath",
+    "lat": 28.5533448,
+    "lon": 77.1999646,
+    "history": "The Jagannath Temple is a Hindu temple dedicated to Jagannath, a form of Vishnu. It is located in Puri, Odisha, on the eastern coast of India. As per temple records, King Indradyumna of Avanti built the main temple. The present temple complex was rebuilt from the eleventh century onwards on the site of the earlier shrines, excluding the main Jagannath temple, and was begun by Anantavarman Chodaganga, the first ruler of the Eastern Ganga dynasty. Many of the temple rituals are based on Shabari Tantras which are evolved from tribal beliefs respectively. The local legends link the idols with Nilamadhaba deva worshipped by tribala and the daitapatis (servitors) claim to be descendants of the tribes. The temple is one of the 108 Abhimana Kshethram of the Sri Vaishnavite tradition.\nThe temple is renowned for its annual Ratha Yatra, chariot festival, which honours the three deities - Jagannath, Balabhadra and Subhadra. During the festival, the three principal deities are pulled on large and elaborately decorated raths, or temple cars. The worship is performed by the Bhil Sabar tribal priests, as well as priests of other communities in the temple. Unlike the stone or metal icons found in most Hindu temples, the image of Jagannath is carved from margosa wood and is ceremoniously replaced every 12 or 19 years with an identical replica, with an elaborate month long ceremony called nabakalebar. The temple is one of the Char Dham pilgrimage sites. \nThe temple is sacred and holy to all Hindus, and especially in those of the Vaishnava traditions. Many great Vaishnava saints, such as Chaitanya Mahaprabhu, Ramanujacharya, Madhvacharya, Nimbarkacharya, Vallabhacharya and Ramananda were closely associated with the temple. Ramanuja established the Emar Matha in the south-eastern corner of the temple, and Adi Shankaracharya established the Govardhan Math, which is the seat of one of the four Shankaracharyas. It is also of particular significance to the followers of Gaudiya Vaishnavism, whose founder, Chaitanya Mahaprabhu, was attracted to the deity, Jagannath, and lived in Puri for many years.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+    "opening_time": "05:00 AM",
+    "closing_time": "11:00 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "mangala_alati": {
+        "time": "05:00 AM",
+        "description": "Pratah ki aarti"
+      },
+      "mailam": {
+        "time": "06:00 AM",
+        "description": "Devi ko jagana"
+      },
+      "abadha_bhog": {
+        "time": "11:00 AM",
+        "description": "Mahaprasad (famous hai)"
+      },
+      "sandhya_alati": {
+        "time": "07:00 PM",
+        "description": "Sham ki aarti"
+      },
+      "badasinghara": {
+        "time": "11:00 PM",
+        "description": "Antim aarti"
+      }
+    },
+    "best_visit_time": "Subah 5-8 AM (Rath Yatra ke time jayenge toh alag experience)",
+    "special_days": [
+      "Rath Yatra (June-July — duniya famous)",
+      "Snana Purnima"
+    ],
+    "entry_fee": "Free (sirf Hindus allowed inside)",
+    "dress_code": "Traditional only, leather strictly prohibited",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  },
+  {
+    "id": "vaishno_devi_temple_katra",
+    "name": "Vaishno Devi Temple",
+    "city": "Katra",
+    "state": "J&K",
+    "deity": "Vaishno Devi",
+    "lat": 29.9579268,
+    "lon": 78.1652397,
+    "history": "Vaishno Devi, also known as Vaishnavi, Trikuta, Sherawali is a Hindu deity considered to have the nature of Shakti and, at the Vaishno Devi Temple, is self-manifest as three Pindis described as the goddesses Mahakali, Mahalakshmi, and Mahasaraswati. She is worshipped as an ascetic, vegetarian, and virgin goddess who is associated with Vishnu. Believed to be the Mahadevi, she is revered as a divine \"Mother\" who protects and grants boons to her devotees. She is also described in some regional traditions as the eldest of the Seven Sisters goddesses of North India.",
+    "infobox": {},
+    "wiki_url": "https://en.wikipedia.org/wiki/Vaishno_Devi",
+    "opening_time": "05:00 AM",
+    "closing_time": "10:00 PM",
+    "seasonal_note": "",
+    "break_time": "",
+    "aarti": {
+      "pratah_aarti": {
+        "time": "05:00 AM",
+        "description": "Subah ki pehli aarti"
+      },
+      "madhyan_aarti": {
+        "time": "12:00 PM",
+        "description": "Dopahar ki aarti"
+      },
+      "sandhya_aarti": {
+        "time": "06:00 PM",
+        "description": "Sham ki aarti"
+      },
+      "shayan_aarti": {
+        "time": "09:30 PM",
+        "description": "Antim aarti"
+      }
+    },
+    "best_visit_time": "Subah 5-8 AM (thanda + kam bheed)",
+    "special_days": [
+      "Navratri (March & October — bahut bheed)",
+      "Diwali"
+    ],
+    "entry_fee": "Yatra Parchi: Free (online registration zaroori)",
+    "dress_code": "Warm clothes (pahad hai), comfortable shoes for trek",
+    "data_sources": {
+      "history": "Wikipedia",
+      "timings": "Manual Curated",
+      "location": "OpenStreetMap"
+    }
+  }
+]

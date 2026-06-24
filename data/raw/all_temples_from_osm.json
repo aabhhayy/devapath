@@ -1,0 +1,6158 @@
+[
+  {
+    "osm_id": 293212713,
+    "osm_type": "node",
+    "name": "Sankat Mochan Hanuman Temple (Mandir)",
+    "name_hindi": "",
+    "lat": 25.2821387,
+    "lon": 82.999981,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Sankat Mochan Road",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": "221005"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 293221509,
+    "osm_type": "node",
+    "name": "Baba Keenaram Ashram",
+    "name_hindi": "",
+    "lat": 25.2958918,
+    "lon": 83.0032762,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 1880329248,
+    "osm_type": "node",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 25.4282627,
+    "lon": 82.8899312,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 2089922682,
+    "osm_type": "node",
+    "name": "Shree Shiv Mahavir Mandir",
+    "name_hindi": "",
+    "lat": 25.3025743,
+    "lon": 82.9732372,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 3284076806,
+    "osm_type": "node",
+    "name": "Saraswati Mandir",
+    "name_hindi": "",
+    "lat": 25.27516,
+    "lon": 83.0056573,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 4524173725,
+    "osm_type": "node",
+    "name": "Durga Temple",
+    "name_hindi": "",
+    "lat": 25.288607,
+    "lon": 82.9992738,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 5261502526,
+    "osm_type": "node",
+    "name": "पादोदक तीर्थ",
+    "name_hindi": "",
+    "lat": 25.3293989,
+    "lon": 83.0442908,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 5306480010,
+    "osm_type": "node",
+    "name": "Rohiteshwar Mandir",
+    "name_hindi": "",
+    "lat": 25.2801793,
+    "lon": 82.9909571,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Gandhinagar, Naria",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": "221005"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 5841246496,
+    "osm_type": "node",
+    "name": "Kashi Vishwanath Temple",
+    "name_hindi": "काशी विश्वनाथ मंदिर",
+    "lat": 25.3108256,
+    "lon": 83.0105711,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 6163784685,
+    "osm_type": "node",
+    "name": "Shree Kali Temple",
+    "name_hindi": "",
+    "lat": 25.3039285,
+    "lon": 83.0075541,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 6391630485,
+    "osm_type": "node",
+    "name": "Shayri Mata Temple",
+    "name_hindi": "शायरी माता मंदिर",
+    "lat": 25.3051794,
+    "lon": 82.9964414,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 7080034498,
+    "osm_type": "node",
+    "name": "Agiyabeer ghat",
+    "name_hindi": "",
+    "lat": 25.2121958,
+    "lon": 82.9663105,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 7997453201,
+    "osm_type": "node",
+    "name": "Kardmeshwar Temple",
+    "name_hindi": "",
+    "lat": 25.2683166,
+    "lon": 82.9582511,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 7997453206,
+    "osm_type": "node",
+    "name": "Bhimchandi Temple",
+    "name_hindi": "",
+    "lat": 25.2517365,
+    "lon": 82.8489246,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8080212346,
+    "osm_type": "node",
+    "name": "mandir",
+    "name_hindi": "",
+    "lat": 25.2729354,
+    "lon": 82.9739446,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8080389704,
+    "osm_type": "node",
+    "name": "Sultankeshwer",
+    "name_hindi": "",
+    "lat": 25.2125752,
+    "lon": 82.9546032,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8122463570,
+    "osm_type": "node",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 25.2680001,
+    "lon": 82.9834711,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8156866536,
+    "osm_type": "node",
+    "name": "Sai baba temple",
+    "name_hindi": "",
+    "lat": 25.3430568,
+    "lon": 82.9963122,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8157924195,
+    "osm_type": "node",
+    "name": "Chaura mata mandir",
+    "name_hindi": "",
+    "lat": 25.3367293,
+    "lon": 82.9962811,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8178992234,
+    "osm_type": "node",
+    "name": "shiv mandir",
+    "name_hindi": "",
+    "lat": 25.2538619,
+    "lon": 82.9550574,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "shivdham nagar colony",
+      "city": "varanasi",
+      "state": "",
+      "postcode": "221106"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8848598039,
+    "osm_type": "node",
+    "name": "Shitala Mata Mandir",
+    "name_hindi": "",
+    "lat": 25.3095836,
+    "lon": 83.0041401,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8918343223,
+    "osm_type": "node",
+    "name": "Ramjiyawan Baba Mandir",
+    "name_hindi": "",
+    "lat": 25.2865254,
+    "lon": 82.9480827,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Nathupur",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": "221108"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 8918353087,
+    "osm_type": "node",
+    "name": "Bhaskar Shiv Madir",
+    "name_hindi": "",
+    "lat": 25.2936118,
+    "lon": 82.9366838,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "bhullanpur",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": "221108"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 11690678451,
+    "osm_type": "node",
+    "name": "shree hanuman ji mandir",
+    "name_hindi": "",
+    "lat": 25.3723887,
+    "lon": 82.9217537,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 11690897238,
+    "osm_type": "node",
+    "name": "shree bhagwan shankar mandir",
+    "name_hindi": "",
+    "lat": 25.3633341,
+    "lon": 82.9347098,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 11690988931,
+    "osm_type": "node",
+    "name": "vishwanath ashram",
+    "name_hindi": "",
+    "lat": 25.3533244,
+    "lon": 82.9665653,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 177611965,
+    "osm_type": "way",
+    "name": "Deeh Baba Temple",
+    "name_hindi": "",
+    "lat": 25.419352,
+    "lon": 82.8914205,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 321653074,
+    "osm_type": "way",
+    "name": "Karmanveer Baba TEMPLE",
+    "name_hindi": "",
+    "lat": 25.2566924,
+    "lon": 82.9848253,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 327754746,
+    "osm_type": "way",
+    "name": "Sri Mansha Devi Temple",
+    "name_hindi": "",
+    "lat": 25.2705401,
+    "lon": 83.0284494,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Varanasi",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 466386112,
+    "osm_type": "way",
+    "name": "Durga Mandir",
+    "name_hindi": "",
+    "lat": 25.2821168,
+    "lon": 83.0400329,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 467412736,
+    "osm_type": "way",
+    "name": "Siv Mandir",
+    "name_hindi": "",
+    "lat": 25.1991337,
+    "lon": 83.0206678,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 996262994,
+    "osm_type": "way",
+    "name": "Deeh Baba temple",
+    "name_hindi": "",
+    "lat": 25.2780869,
+    "lon": 82.9773684,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 1337770189,
+    "osm_type": "way",
+    "name": "Assi Ghat Mandir",
+    "name_hindi": "",
+    "lat": 25.2892596,
+    "lon": 83.0059567,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Varanasi"
+  },
+  {
+    "osm_id": 4569639794,
+    "osm_type": "node",
+    "name": "Sri Radha Shyamsundar Mandir",
+    "name_hindi": "",
+    "lat": 27.5826874,
+    "lon": 77.6961268,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 4569668889,
+    "osm_type": "node",
+    "name": "Sri Caitanya Mahaprabhu's Sitting Place",
+    "name_hindi": "",
+    "lat": 27.5674711,
+    "lon": 77.700294,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 4648692292,
+    "osm_type": "node",
+    "name": "Vrinda Kunj",
+    "name_hindi": "",
+    "lat": 27.5845022,
+    "lon": 77.7033788,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 4706937889,
+    "osm_type": "node",
+    "name": "Pilot Baba Ashram",
+    "name_hindi": "",
+    "lat": 27.572705,
+    "lon": 77.6969117,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Gurukul Road, Vrindavan (U.P.) INDIA",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 5468509025,
+    "osm_type": "node",
+    "name": "Bhandirvat",
+    "name_hindi": "",
+    "lat": 27.6556302,
+    "lon": 77.7068706,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 5469282928,
+    "osm_type": "node",
+    "name": "Belvan",
+    "name_hindi": "",
+    "lat": 27.6014809,
+    "lon": 77.6844417,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 7171865698,
+    "osm_type": "node",
+    "name": "Khram Katyayani",
+    "name_hindi": "",
+    "lat": 27.5788988,
+    "lon": 77.7037404,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 7172072781,
+    "osm_type": "node",
+    "name": "храм Ашта-сакхи",
+    "name_hindi": "",
+    "lat": 27.5802569,
+    "lon": 77.6888572,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 10904656785,
+    "osm_type": "node",
+    "name": "hanuman temple",
+    "name_hindi": "",
+    "lat": 27.5816537,
+    "lon": 77.6068816,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 12595635574,
+    "osm_type": "node",
+    "name": "Radha Nagar Gurudwara",
+    "name_hindi": "",
+    "lat": 27.5011734,
+    "lon": 77.6586892,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 12595651182,
+    "osm_type": "node",
+    "name": "Shri Bhuteshwar Mahadev Temple",
+    "name_hindi": "",
+    "lat": 27.4998805,
+    "lon": 77.6684018,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 12595815327,
+    "osm_type": "node",
+    "name": "Radha Krishna Mandir",
+    "name_hindi": "",
+    "lat": 27.5308029,
+    "lon": 77.660396,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 12719325193,
+    "osm_type": "node",
+    "name": "Sri chintamani kunj",
+    "name_hindi": "",
+    "lat": 27.5711878,
+    "lon": 77.6727511,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 229134115,
+    "osm_type": "way",
+    "name": "Shri Krishna Garbh Gruha",
+    "name_hindi": "",
+    "lat": 27.5054273,
+    "lon": 77.6693341,
+    "deity": "",
+    "website": "http://shrikrishnajanmasthan.net",
+    "phone": "+91 565 242 3888",
+    "address": {
+      "street": "",
+      "city": "Mathura",
+      "state": "",
+      "postcode": "281001"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 491875572,
+    "osm_type": "way",
+    "name": "Dwarikadeesh Temple",
+    "name_hindi": "",
+    "lat": 27.5051686,
+    "lon": 77.6848965,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Naya Bazaar",
+      "city": "Mathura",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 670795213,
+    "osm_type": "way",
+    "name": "Mansarovara",
+    "name_hindi": "",
+    "lat": 27.5945478,
+    "lon": 77.7358984,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 679447890,
+    "osm_type": "way",
+    "name": "Jaipur Mandir",
+    "name_hindi": "",
+    "lat": 27.5722227,
+    "lon": 77.6903564,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 844941546,
+    "osm_type": "way",
+    "name": "Akshaya Patra Temple, Vrindavan",
+    "name_hindi": "",
+    "lat": 27.5685581,
+    "lon": 77.6442258,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Vrindavan"
+  },
+  {
+    "osm_id": 567473869,
+    "osm_type": "node",
+    "name": "Mansa Devi Temple",
+    "name_hindi": "",
+    "lat": 29.9579268,
+    "lon": 78.1652397,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Haridwar"
+  },
+  {
+    "osm_id": 1187090847,
+    "osm_type": "node",
+    "name": "Ganga Devi",
+    "name_hindi": "",
+    "lat": 29.957384,
+    "lon": 78.1727482,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Haridwar"
+  },
+  {
+    "osm_id": 9476383272,
+    "osm_type": "node",
+    "name": "Chandi Devi Temple",
+    "name_hindi": "चण्डी देवी मंदिर",
+    "lat": 29.9335505,
+    "lon": 78.1801274,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Haridwar"
+  },
+  {
+    "osm_id": 12608936366,
+    "osm_type": "node",
+    "name": "Haridwar - Mahakumbh Spot 1",
+    "name_hindi": "",
+    "lat": 29.9389604,
+    "lon": 78.1587771,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Haridwar"
+  },
+  {
+    "osm_id": 227939436,
+    "osm_type": "way",
+    "name": "Sureshwari Devi Temple",
+    "name_hindi": "",
+    "lat": 29.9697265,
+    "lon": 78.1072173,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Haridwar"
+  },
+  {
+    "osm_id": 1286045451,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.9752118,
+    "lon": 77.7295582,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 1535156362,
+    "osm_type": "node",
+    "name": "shiv mandir",
+    "name_hindi": "",
+    "lat": 29.0254249,
+    "lon": 77.6854077,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 3403733973,
+    "osm_type": "node",
+    "name": "Dev Mandir",
+    "name_hindi": "",
+    "lat": 29.0537219,
+    "lon": 77.7068579,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Modipuram",
+      "city": "Meerut",
+      "state": "",
+      "postcode": "250110"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 3412946738,
+    "osm_type": "node",
+    "name": "Uday Park Mandir",
+    "name_hindi": "",
+    "lat": 29.0667541,
+    "lon": 77.7150374,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Uday Park",
+      "city": "Modipuram",
+      "state": "",
+      "postcode": "250110"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 4358578818,
+    "osm_type": "node",
+    "name": "Shiv Parvati Temple",
+    "name_hindi": "",
+    "lat": 28.9627403,
+    "lon": 77.7332795,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 7030428271,
+    "osm_type": "node",
+    "name": "SAI BABA MANDIR",
+    "name_hindi": "",
+    "lat": 28.9749657,
+    "lon": 77.7163113,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 8110410089,
+    "osm_type": "node",
+    "name": "Lisari gate hanuman mandir",
+    "name_hindi": "",
+    "lat": 28.9708906,
+    "lon": 77.7064345,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 8984708732,
+    "osm_type": "node",
+    "name": "Dayaleshwar Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.9837228,
+    "lon": 77.7137588,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11245796359,
+    "osm_type": "node",
+    "name": "Sri Pipleshwar Mahadev Shiv Temple",
+    "name_hindi": "",
+    "lat": 28.9896283,
+    "lon": 77.7059373,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11252970334,
+    "osm_type": "node",
+    "name": "Jai Shiv Mahadev Mandi",
+    "name_hindi": "जय शिव महादेव मंदिर",
+    "lat": 28.9822563,
+    "lon": 77.7080927,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11254666524,
+    "osm_type": "node",
+    "name": "Sri Kanthi Mata Old Temple",
+    "name_hindi": "",
+    "lat": 28.9827866,
+    "lon": 77.7354608,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11268880614,
+    "osm_type": "node",
+    "name": "Shree Mahadev Shiv Temple",
+    "name_hindi": "",
+    "lat": 28.9752429,
+    "lon": 77.721869,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11277194967,
+    "osm_type": "node",
+    "name": "Dakhsinmukhi Sankat Mochan Mandir",
+    "name_hindi": "",
+    "lat": 28.9982172,
+    "lon": 77.6987094,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 11286436146,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "हनुमान मंदिर",
+    "lat": 28.9883673,
+    "lon": 77.7361449,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 13334868759,
+    "osm_type": "node",
+    "name": "Mansa Devi Mandir",
+    "name_hindi": "",
+    "lat": 28.955262,
+    "lon": 77.749462,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Jagriti Vihar",
+      "city": "Meerut",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 13725226990,
+    "osm_type": "node",
+    "name": "Shree Sita Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.9690862,
+    "lon": 77.724272,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 903652956,
+    "osm_type": "way",
+    "name": "E - block temple",
+    "name_hindi": "",
+    "lat": 28.9588021,
+    "lon": 77.7382993,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 954674648,
+    "osm_type": "way",
+    "name": "Shree Lakshmi Narayan Temple",
+    "name_hindi": "",
+    "lat": 29.0508443,
+    "lon": 77.7119659,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 1214457825,
+    "osm_type": "way",
+    "name": "Baba Augharnath Shiva Temple",
+    "name_hindi": "बाबा औघड़नाथ  मंदिर",
+    "lat": 28.9968943,
+    "lon": 77.6911662,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Meerut",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 1214458134,
+    "osm_type": "way",
+    "name": "Mansa Devi Dham",
+    "name_hindi": "मंसा देवी धाम",
+    "lat": 28.9791357,
+    "lon": 77.6800993,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Railway Colony",
+      "city": "Meerut",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 1258231759,
+    "osm_type": "way",
+    "name": "Dogar mandir",
+    "name_hindi": "",
+    "lat": 29.0075911,
+    "lon": 77.7175715,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Meerut"
+  },
+  {
+    "osm_id": 459772437,
+    "osm_type": "node",
+    "name": "Gauri Shanker Mandir, AGCR",
+    "name_hindi": "",
+    "lat": 28.6512798,
+    "lon": 77.297411,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 484649738,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.4782956,
+    "lon": 77.0935388,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1038357044,
+    "osm_type": "node",
+    "name": "Nili Chhatri Mandir",
+    "name_hindi": "",
+    "lat": 28.6626518,
+    "lon": 77.2424315,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1179290792,
+    "osm_type": "node",
+    "name": "Shani Mandir",
+    "name_hindi": "",
+    "lat": 28.6379881,
+    "lon": 77.0662943,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1305488157,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6143733,
+    "lon": 77.2888271,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1356000854,
+    "osm_type": "node",
+    "name": "Sankatmochan Hanuman Temple",
+    "name_hindi": "",
+    "lat": 28.6413122,
+    "lon": 77.3278536,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1374470933,
+    "osm_type": "node",
+    "name": "Kirpa Dham",
+    "name_hindi": "",
+    "lat": 28.6199732,
+    "lon": 77.088561,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1413851143,
+    "osm_type": "node",
+    "name": "Dev Mandir",
+    "name_hindi": "देव मंदिर",
+    "lat": 28.6633634,
+    "lon": 77.2841663,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1528706113,
+    "osm_type": "node",
+    "name": "Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.5662573,
+    "lon": 77.2679959,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1666762034,
+    "osm_type": "node",
+    "name": "Mandir",
+    "name_hindi": "",
+    "lat": 28.6675127,
+    "lon": 77.3254834,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1794578883,
+    "osm_type": "node",
+    "name": "Mata Ka Mandir",
+    "name_hindi": "",
+    "lat": 28.5658169,
+    "lon": 77.2479782,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1849483426,
+    "osm_type": "node",
+    "name": "Purga Mandir",
+    "name_hindi": "",
+    "lat": 28.548115,
+    "lon": 77.2931614,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1861242879,
+    "osm_type": "node",
+    "name": "Pocket E Temple",
+    "name_hindi": "",
+    "lat": 28.5306273,
+    "lon": 77.2982027,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2009502416,
+    "osm_type": "node",
+    "name": "Jangid Brahaman Temple",
+    "name_hindi": "",
+    "lat": 28.5226199,
+    "lon": 77.1639216,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2157052588,
+    "osm_type": "node",
+    "name": "Hanuman Mandif",
+    "name_hindi": "",
+    "lat": 28.5976123,
+    "lon": 77.335535,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "sector 11",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2408448881,
+    "osm_type": "node",
+    "name": "Sai Temple",
+    "name_hindi": "",
+    "lat": 28.5563996,
+    "lon": 77.0568107,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2556643431,
+    "osm_type": "node",
+    "name": "Om Mandir",
+    "name_hindi": "",
+    "lat": 28.5825971,
+    "lon": 77.3079531,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2699334246,
+    "osm_type": "node",
+    "name": "Sri Ramakrishna Temple",
+    "name_hindi": "",
+    "lat": 28.639534,
+    "lon": 77.2097862,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2833952243,
+    "osm_type": "node",
+    "name": "Lakshmi Narayan Temple",
+    "name_hindi": "लक्ष्मी नारायण मंदिर",
+    "lat": 28.6327513,
+    "lon": 77.1989712,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 2958004054,
+    "osm_type": "node",
+    "name": "Shri Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.6910615,
+    "lon": 77.2075455,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 3012222871,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.7581039,
+    "lon": 77.1316427,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Pratap Gali",
+      "city": "Siraspur, Delhi",
+      "state": "",
+      "postcode": "110042"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 3245966165,
+    "osm_type": "node",
+    "name": "Shani Dev Mandir",
+    "name_hindi": "",
+    "lat": 28.6853798,
+    "lon": 77.3710003,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 3514824425,
+    "osm_type": "node",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 28.5574168,
+    "lon": 77.3784684,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 3782946428,
+    "osm_type": "node",
+    "name": "Raghupati Temple",
+    "name_hindi": "",
+    "lat": 28.5435234,
+    "lon": 77.247977,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "A Block",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110019"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4030184789,
+    "osm_type": "node",
+    "name": "Kali Mandir",
+    "name_hindi": "",
+    "lat": 28.6359878,
+    "lon": 77.2250742,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4197303865,
+    "osm_type": "node",
+    "name": "Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.6328757,
+    "lon": 77.0854072,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4234967390,
+    "osm_type": "node",
+    "name": "Kalkaji Mandir",
+    "name_hindi": "",
+    "lat": 28.5497752,
+    "lon": 77.2606671,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4252843373,
+    "osm_type": "node",
+    "name": "Shri Shiv Shakthi Mandir",
+    "name_hindi": "",
+    "lat": 28.4931384,
+    "lon": 77.0933999,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4347439453,
+    "osm_type": "node",
+    "name": "Shani Mandir",
+    "name_hindi": "",
+    "lat": 28.6870073,
+    "lon": 77.134753,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4408646222,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "शिव मंदिर",
+    "lat": 28.6172695,
+    "lon": 77.2817778,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4568128777,
+    "osm_type": "node",
+    "name": "Temple",
+    "name_hindi": "",
+    "lat": 28.5702695,
+    "lon": 77.3479565,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Pocket E, Sector 36",
+      "city": "",
+      "state": "",
+      "postcode": "201301"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4570365941,
+    "osm_type": "node",
+    "name": "Prachin Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5094144,
+    "lon": 77.2639663,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4631318318,
+    "osm_type": "node",
+    "name": "Small Lord Hanuman Idol",
+    "name_hindi": "",
+    "lat": 28.6571882,
+    "lon": 77.3654141,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4671269090,
+    "osm_type": "node",
+    "name": "Shani Madir",
+    "name_hindi": "",
+    "lat": 28.6532089,
+    "lon": 77.3553804,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Vasundhara",
+      "city": "Ghaziabad",
+      "state": "",
+      "postcode": "201012"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4859930729,
+    "osm_type": "node",
+    "name": "Kali Bari",
+    "name_hindi": "",
+    "lat": 28.5983536,
+    "lon": 77.0781744,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Kali Bari Road",
+      "city": "Bengali Colony, Mahavir Enclave",
+      "state": "",
+      "postcode": "110045"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4881384421,
+    "osm_type": "node",
+    "name": "Gauri Shankar Hindu Temple",
+    "name_hindi": "",
+    "lat": 28.6558115,
+    "lon": 77.2356623,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": "110006"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4881467124,
+    "osm_type": "node",
+    "name": "Prachin Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6303505,
+    "lon": 77.2150219,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4984196224,
+    "osm_type": "node",
+    "name": "Shani Mandir Roshanara Garden",
+    "name_hindi": "",
+    "lat": 28.6715328,
+    "lon": 77.2005269,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 4991522496,
+    "osm_type": "node",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 28.6752346,
+    "lon": 77.1939022,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5179520846,
+    "osm_type": "node",
+    "name": "Palam Shiv mandir",
+    "name_hindi": "",
+    "lat": 28.5842328,
+    "lon": 77.0912854,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5242160298,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "शिव मंदिर",
+    "lat": 28.6063106,
+    "lon": 77.2885685,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5263078018,
+    "osm_type": "node",
+    "name": "Shree Radha Krishna Mandir",
+    "name_hindi": "",
+    "lat": 28.561387,
+    "lon": 77.2404527,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "A Block Amar Colony",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110024"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5268232683,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5388005,
+    "lon": 77.2167853,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5300335563,
+    "osm_type": "node",
+    "name": "Lakshmi Narayan MAndir",
+    "name_hindi": "",
+    "lat": 28.7145169,
+    "lon": 77.1529575,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Maharaja Agrasen Marg",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5300361254,
+    "osm_type": "node",
+    "name": "Hindu shiv temple",
+    "name_hindi": "",
+    "lat": 28.5893507,
+    "lon": 77.3696447,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "D-1 block",
+      "city": "noida",
+      "state": "",
+      "postcode": "201301"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5307889596,
+    "osm_type": "node",
+    "name": "Temple",
+    "name_hindi": "",
+    "lat": 28.6376604,
+    "lon": 77.3015157,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5433534645,
+    "osm_type": "node",
+    "name": "Shri Durga Mandir",
+    "name_hindi": "श्री दुर्गा मंदिर",
+    "lat": 28.5228404,
+    "lon": 77.205968,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5455131671,
+    "osm_type": "node",
+    "name": "Shri Radha Krishna Mandir",
+    "name_hindi": "श्री राधा क्रिष्ण मन्दिर",
+    "lat": 28.5621417,
+    "lon": 77.2567814,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5531782160,
+    "osm_type": "node",
+    "name": "Sai Mandir",
+    "name_hindi": "",
+    "lat": 28.671511,
+    "lon": 77.331725,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5541682308,
+    "osm_type": "node",
+    "name": "Shri Shiv Mandir Sanatan Dharm Sabha",
+    "name_hindi": "श्री शिव मन्दिर सनातन धर्म सभा",
+    "lat": 28.5656809,
+    "lon": 77.2244304,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5606766735,
+    "osm_type": "node",
+    "name": "Prachin Shri Hanuman Shani Mandir",
+    "name_hindi": "प्राचीन श्री हनुमान शनि मम्दिर",
+    "lat": 28.5093135,
+    "lon": 77.1775058,
+    "deity": "",
+    "website": "",
+    "phone": "+91-99106-80931;+91-96502-44222",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5648777001,
+    "osm_type": "node",
+    "name": "Shri Narayan Mandir",
+    "name_hindi": "श्री नारायण मन्दिर",
+    "lat": 28.5753478,
+    "lon": 77.2291371,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5778513819,
+    "osm_type": "node",
+    "name": "Prachin Sati Math Mandir",
+    "name_hindi": "प्राचीन सती मठ मंदिर",
+    "lat": 28.5264998,
+    "lon": 77.2654735,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5799045853,
+    "osm_type": "node",
+    "name": "Prachin Shiv Shakti Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.5305897,
+    "lon": 77.2196421,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5924384655,
+    "osm_type": "node",
+    "name": "Shri Chamatkari Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5129414,
+    "lon": 77.204637,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "IGNOU Road",
+      "city": "",
+      "state": "",
+      "postcode": "110068"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 5985180687,
+    "osm_type": "node",
+    "name": "Sri Laxmi Narayan Mandir",
+    "name_hindi": "श्री लक्ष्मी नारायण मन्दिर",
+    "lat": 28.5358092,
+    "lon": 77.2106083,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6115749178,
+    "osm_type": "node",
+    "name": "Maharshi Valmiki Mandir",
+    "name_hindi": "महर्षी वालि्मिकी मन्दिर",
+    "lat": 28.5349467,
+    "lon": 77.2600199,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6258198738,
+    "osm_type": "node",
+    "name": "Kali Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.6240877,
+    "lon": 77.1355337,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6342954047,
+    "osm_type": "node",
+    "name": "Shri Hari Mandir",
+    "name_hindi": "श्री हरि मन्दिर",
+    "lat": 28.5732231,
+    "lon": 77.2445457,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6385672573,
+    "osm_type": "node",
+    "name": "Uttarakhand Sanatan Dharm Mandir",
+    "name_hindi": "",
+    "lat": 28.6519026,
+    "lon": 77.095396,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6403647468,
+    "osm_type": "node",
+    "name": "Hare- Krishna Mandir",
+    "name_hindi": "",
+    "lat": 28.6852719,
+    "lon": 77.2897923,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6417564852,
+    "osm_type": "node",
+    "name": "Sai Mandir",
+    "name_hindi": "",
+    "lat": 28.6500264,
+    "lon": 77.0438735,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6428229251,
+    "osm_type": "node",
+    "name": "Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.5531286,
+    "lon": 77.2408913,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 6518293500,
+    "osm_type": "node",
+    "name": "Shri Vaikunthanathji Mandir",
+    "name_hindi": "",
+    "lat": 28.5482493,
+    "lon": 77.180252,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 7000705410,
+    "osm_type": "node",
+    "name": "Prachin Shri Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.515532,
+    "lon": 77.2275507,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 7017424673,
+    "osm_type": "node",
+    "name": "Nav Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.5100205,
+    "lon": 77.3355601,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Jaitpur Extention Part 2, Badarpur",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110044"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 7108733250,
+    "osm_type": "node",
+    "name": "Dwarkadish Temple",
+    "name_hindi": "द्वारकाधीश मंदिर",
+    "lat": 28.7117234,
+    "lon": 77.1177571,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 7395092083,
+    "osm_type": "node",
+    "name": "shiv mandir",
+    "name_hindi": "",
+    "lat": 28.7153477,
+    "lon": 77.2844655,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Johripur Road",
+      "city": "delhi",
+      "state": "",
+      "postcode": "110094"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 7883840120,
+    "osm_type": "node",
+    "name": "Harmilap Mission Ashram",
+    "name_hindi": "",
+    "lat": 28.6955647,
+    "lon": 77.1883218,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8151144339,
+    "osm_type": "node",
+    "name": "Jhandewalan Temple",
+    "name_hindi": "",
+    "lat": 28.6491472,
+    "lon": 77.2041529,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8151145753,
+    "osm_type": "node",
+    "name": "Raghunath Mandir",
+    "name_hindi": "",
+    "lat": 28.6722893,
+    "lon": 77.2174669,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8154594642,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6117378,
+    "lon": 77.0504313,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Nanhey Park mcd  Rd",
+      "city": "Dwarka",
+      "state": "",
+      "postcode": "110059"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8892595744,
+    "osm_type": "node",
+    "name": "Balmiki Mandir",
+    "name_hindi": "",
+    "lat": 28.5857239,
+    "lon": 77.2497278,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8892595746,
+    "osm_type": "node",
+    "name": "Sanatan Dharam Mandir",
+    "name_hindi": "",
+    "lat": 28.5802121,
+    "lon": 77.2454367,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8892595747,
+    "osm_type": "node",
+    "name": "Sanatan Dharam Guffa Wala Mandir",
+    "name_hindi": "",
+    "lat": 28.5858069,
+    "lon": 77.2434717,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8975163668,
+    "osm_type": "node",
+    "name": "Navgrah temple",
+    "name_hindi": "",
+    "lat": 28.5135249,
+    "lon": 77.1690039,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110070"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8985175442,
+    "osm_type": "node",
+    "name": "Kali Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.6835319,
+    "lon": 77.1718947,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 8985323173,
+    "osm_type": "node",
+    "name": "Bunkur Temple",
+    "name_hindi": "",
+    "lat": 28.68297,
+    "lon": 77.1784205,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9104893860,
+    "osm_type": "node",
+    "name": "Sanatan Dharm Radheshyam Mandir",
+    "name_hindi": "",
+    "lat": 28.5194253,
+    "lon": 77.1794781,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9107249155,
+    "osm_type": "node",
+    "name": "Jai Bhawani Mandir",
+    "name_hindi": "",
+    "lat": 28.535629,
+    "lon": 77.273034,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9247464322,
+    "osm_type": "node",
+    "name": "temple",
+    "name_hindi": "",
+    "lat": 28.599859,
+    "lon": 77.0104764,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "mansi street",
+      "city": "Dwarka",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9583197959,
+    "osm_type": "node",
+    "name": "Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.6246077,
+    "lon": 77.2903466,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9698590666,
+    "osm_type": "node",
+    "name": "Kali Bari Mandir",
+    "name_hindi": "",
+    "lat": 28.7264716,
+    "lon": 77.17127,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9785748189,
+    "osm_type": "node",
+    "name": "Neelam Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.6200887,
+    "lon": 77.3025372,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9855214946,
+    "osm_type": "node",
+    "name": "Care Maintenance Services Pvt. Ltd.",
+    "name_hindi": "",
+    "lat": 28.5238482,
+    "lon": 77.1935899,
+    "deity": "",
+    "website": "https://www.carems.in",
+    "phone": "",
+    "address": {
+      "street": "Old MB Road",
+      "city": "Lado Sarai ,new Delhi",
+      "state": "",
+      "postcode": "110030"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9932271555,
+    "osm_type": "node",
+    "name": "Shri Sanatam Dharm Mandir",
+    "name_hindi": "",
+    "lat": 28.6294879,
+    "lon": 77.3071901,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9966670071,
+    "osm_type": "node",
+    "name": "Shiv Mandir Meethapur Gujjar village",
+    "name_hindi": "",
+    "lat": 28.4975136,
+    "lon": 77.3167916,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "meethapur village",
+      "city": "new delhi hariyana",
+      "state": "",
+      "postcode": "110044"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 9978822132,
+    "osm_type": "node",
+    "name": "Sanatan Dharm Mandir Raja Garden",
+    "name_hindi": "",
+    "lat": 28.654317,
+    "lon": 77.1274401,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10027880535,
+    "osm_type": "node",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 28.6316741,
+    "lon": 77.2715447,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10317027833,
+    "osm_type": "node",
+    "name": "Shri Panchmukhi Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6085081,
+    "lon": 77.2948406,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10593786449,
+    "osm_type": "node",
+    "name": "Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.732065,
+    "lon": 77.1737714,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10741318284,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.721083,
+    "lon": 77.1686256,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10765761408,
+    "osm_type": "node",
+    "name": "Jai Ma Kali Mandir",
+    "name_hindi": "",
+    "lat": 28.7307493,
+    "lon": 77.1658606,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10816807227,
+    "osm_type": "node",
+    "name": "Shiv Shakti Valmiki Mandir",
+    "name_hindi": "",
+    "lat": 28.6756668,
+    "lon": 77.2076534,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10911265860,
+    "osm_type": "node",
+    "name": "Prachin Shri Shani Dev Mandir",
+    "name_hindi": "",
+    "lat": 28.7140584,
+    "lon": 77.1799272,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110033"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10936724350,
+    "osm_type": "node",
+    "name": "Arya Samaj Mandir",
+    "name_hindi": "",
+    "lat": 28.7200029,
+    "lon": 77.1779355,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110033"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10989356518,
+    "osm_type": "node",
+    "name": "Shani Mandir",
+    "name_hindi": "",
+    "lat": 28.7496437,
+    "lon": 77.1518788,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 10992246632,
+    "osm_type": "node",
+    "name": "Sulahkul Mandir",
+    "name_hindi": "सुलहाकुल मन्दिर",
+    "lat": 28.6070869,
+    "lon": 77.0346835,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11015846460,
+    "osm_type": "node",
+    "name": "Radha Krishna Mandir",
+    "name_hindi": "",
+    "lat": 28.7609709,
+    "lon": 77.1763851,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11085832796,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.7335796,
+    "lon": 77.1832522,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11183839897,
+    "osm_type": "node",
+    "name": "Mata Village Usmanpur",
+    "name_hindi": "",
+    "lat": 28.6861614,
+    "lon": 77.2507052,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110053"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11225077948,
+    "osm_type": "node",
+    "name": "Temple - Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.4944492,
+    "lon": 77.3255522,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11448911934,
+    "osm_type": "node",
+    "name": "Shri Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6332604,
+    "lon": 77.2060741,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11518570709,
+    "osm_type": "node",
+    "name": "Salasar Hanuman Mandir",
+    "name_hindi": "सालासर हनुमान मंदिर",
+    "lat": 28.6762926,
+    "lon": 77.3145513,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11664880967,
+    "osm_type": "node",
+    "name": "Hanumanji Mandir Sadh nagar",
+    "name_hindi": "",
+    "lat": 28.5912564,
+    "lon": 77.0927352,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11688160080,
+    "osm_type": "node",
+    "name": "Ganesh Temple",
+    "name_hindi": "",
+    "lat": 28.509077,
+    "lon": 77.121892,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11688160089,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.517058,
+    "lon": 77.1302223,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11688160114,
+    "osm_type": "node",
+    "name": "Sheetla Maa Mandir",
+    "name_hindi": "",
+    "lat": 28.5128082,
+    "lon": 77.1081447,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11688160189,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.518072,
+    "lon": 77.1067061,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11690560349,
+    "osm_type": "node",
+    "name": "SHAKUMBHARI MANDIR",
+    "name_hindi": "",
+    "lat": 28.6939674,
+    "lon": 77.2921077,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11690659985,
+    "osm_type": "node",
+    "name": "Chhatarpur Mandir",
+    "name_hindi": "",
+    "lat": 28.5033155,
+    "lon": 77.1787621,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110093"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11697033188,
+    "osm_type": "node",
+    "name": "panchmukhi mandir",
+    "name_hindi": "",
+    "lat": 28.4988464,
+    "lon": 77.2811974,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11697121595,
+    "osm_type": "node",
+    "name": "vishwkarma mandir",
+    "name_hindi": "",
+    "lat": 28.5009485,
+    "lon": 77.2868292,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11697430717,
+    "osm_type": "node",
+    "name": "siddhkunda mandir",
+    "name_hindi": "",
+    "lat": 28.4840103,
+    "lon": 77.2842362,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11697493041,
+    "osm_type": "node",
+    "name": "pracheen shiv mandir",
+    "name_hindi": "",
+    "lat": 28.4985939,
+    "lon": 77.296431,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11698104239,
+    "osm_type": "node",
+    "name": "shiv mandir",
+    "name_hindi": "",
+    "lat": 28.5138331,
+    "lon": 77.2361004,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11799964882,
+    "osm_type": "node",
+    "name": "Jandi Mandir",
+    "name_hindi": "जंडी मंदिर",
+    "lat": 28.5713132,
+    "lon": 77.2386276,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11809224383,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5968437,
+    "lon": 77.1233477,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11813186953,
+    "osm_type": "node",
+    "name": "Shani Temple",
+    "name_hindi": "शनि मंदिर",
+    "lat": 28.7141578,
+    "lon": 77.2103733,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11846248811,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6070091,
+    "lon": 77.0684634,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11916104015,
+    "osm_type": "node",
+    "name": "राधा कृष्ण मंदिर",
+    "name_hindi": "",
+    "lat": 28.6170649,
+    "lon": 77.0295384,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 11981033201,
+    "osm_type": "node",
+    "name": "Gauri Shankar Temple",
+    "name_hindi": "",
+    "lat": 28.6686404,
+    "lon": 77.3081506,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12046734576,
+    "osm_type": "node",
+    "name": "Temple",
+    "name_hindi": "मंदिर",
+    "lat": 28.5257778,
+    "lon": 77.236502,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12135368663,
+    "osm_type": "node",
+    "name": "South Indian Temple",
+    "name_hindi": "",
+    "lat": 28.6466793,
+    "lon": 77.1926872,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Abdul Aziz Road",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12223873993,
+    "osm_type": "node",
+    "name": "Shani Mandir",
+    "name_hindi": "शनि मंदिर",
+    "lat": 28.5902475,
+    "lon": 77.0715454,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12397244536,
+    "osm_type": "node",
+    "name": "शिव मंदिर बापरोला गांव",
+    "name_hindi": "",
+    "lat": 28.6411561,
+    "lon": 77.0115895,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12404324812,
+    "osm_type": "node",
+    "name": "Sarhaul Village Mata",
+    "name_hindi": "",
+    "lat": 28.4884787,
+    "lon": 77.0717967,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12440864265,
+    "osm_type": "node",
+    "name": "श्री गोपाल मंदिर",
+    "name_hindi": "",
+    "lat": 28.6475751,
+    "lon": 77.2396598,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12478996245,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6863256,
+    "lon": 77.2804906,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12480500560,
+    "osm_type": "node",
+    "name": "शिव शक्ति मंदिर",
+    "name_hindi": "शिव शक्ति मंदिर",
+    "lat": 28.6144952,
+    "lon": 77.0132873,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12535573537,
+    "osm_type": "node",
+    "name": "Shri Laxmi Narayan Mandir",
+    "name_hindi": "",
+    "lat": 28.6572841,
+    "lon": 77.2034121,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12555854169,
+    "osm_type": "node",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5632055,
+    "lon": 77.3891119,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Sector-78",
+      "city": "Noida",
+      "state": "",
+      "postcode": "201301"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12596289521,
+    "osm_type": "node",
+    "name": "mata mandir",
+    "name_hindi": "",
+    "lat": 28.6889951,
+    "lon": 77.3464639,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12596553172,
+    "osm_type": "node",
+    "name": "Mata Chaamunda Temple",
+    "name_hindi": "",
+    "lat": 28.6677409,
+    "lon": 77.289377,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12753521509,
+    "osm_type": "node",
+    "name": "Radha Krishan",
+    "name_hindi": "",
+    "lat": 28.6581351,
+    "lon": 77.2251977,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12816577346,
+    "osm_type": "node",
+    "name": "Datar Jaisonar Shiv Sai Mandir",
+    "name_hindi": "",
+    "lat": 28.4965144,
+    "lon": 77.2369498,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 12895485942,
+    "osm_type": "node",
+    "name": "Noida Kalibari",
+    "name_hindi": "",
+    "lat": 28.5782752,
+    "lon": 77.3348386,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13027858050,
+    "osm_type": "node",
+    "name": "Ram Dwara Mandir",
+    "name_hindi": "",
+    "lat": 28.6170989,
+    "lon": 77.1405361,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13059709541,
+    "osm_type": "node",
+    "name": "Kali Mandir",
+    "name_hindi": "",
+    "lat": 28.5333751,
+    "lon": 77.2914083,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13061159183,
+    "osm_type": "node",
+    "name": "Laxmi Narayan Mandir",
+    "name_hindi": "",
+    "lat": 28.5393404,
+    "lon": 77.2981398,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13077847328,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6188577,
+    "lon": 77.29721,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13094396557,
+    "osm_type": "node",
+    "name": "Prachin Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.5454155,
+    "lon": 77.2772523,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "G Block",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13110027566,
+    "osm_type": "node",
+    "name": "Shree Radhagovind Mandir",
+    "name_hindi": "",
+    "lat": 28.6829673,
+    "lon": 77.2002812,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13142525736,
+    "osm_type": "node",
+    "name": "Purana Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5486132,
+    "lon": 77.2154554,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13202957655,
+    "osm_type": "node",
+    "name": "Prachin Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.6045351,
+    "lon": 77.3322124,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13334052242,
+    "osm_type": "node",
+    "name": "Pracheen Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6963799,
+    "lon": 77.3311977,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13466612711,
+    "osm_type": "node",
+    "name": "Shri Jhulelal Mandir",
+    "name_hindi": "",
+    "lat": 28.6614755,
+    "lon": 77.1423707,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13468183988,
+    "osm_type": "node",
+    "name": "Sheshnag Wala Mandir",
+    "name_hindi": "",
+    "lat": 28.6040882,
+    "lon": 77.3021579,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13506103197,
+    "osm_type": "node",
+    "name": "Sankat Haari Mandir",
+    "name_hindi": "",
+    "lat": 28.6187977,
+    "lon": 77.0749773,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13508784543,
+    "osm_type": "node",
+    "name": "Shiv Bhole Mandir",
+    "name_hindi": "",
+    "lat": 28.6179805,
+    "lon": 77.1110048,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13594394669,
+    "osm_type": "node",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.572924,
+    "lon": 77.2105537,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13594703534,
+    "osm_type": "node",
+    "name": "Mata ka Mandir",
+    "name_hindi": "",
+    "lat": 28.705033,
+    "lon": 77.2201501,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13664619591,
+    "osm_type": "node",
+    "name": "panchavati mandir",
+    "name_hindi": "",
+    "lat": 28.4956735,
+    "lon": 77.2488368,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "9",
+      "city": "New Delhi",
+      "state": "DL",
+      "postcode": "110080"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13664978670,
+    "osm_type": "node",
+    "name": "kali mandir",
+    "name_hindi": "",
+    "lat": 28.489443,
+    "lon": 77.2484188,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13701243384,
+    "osm_type": "node",
+    "name": "Shri Sanatan Dharma Mandir",
+    "name_hindi": "",
+    "lat": 28.5703491,
+    "lon": 77.2159192,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13780550353,
+    "osm_type": "node",
+    "name": "Shri Mahamaya Vaishnava Devi Mandir",
+    "name_hindi": "",
+    "lat": 28.571678,
+    "lon": 77.1665201,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13814217544,
+    "osm_type": "node",
+    "name": "Temple",
+    "name_hindi": "",
+    "lat": 28.5618555,
+    "lon": 77.195319,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13855678253,
+    "osm_type": "node",
+    "name": "Prachin Shri Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.5610156,
+    "lon": 77.2664897,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 13930663908,
+    "osm_type": "node",
+    "name": "Shri Shiv Mandir",
+    "name_hindi": "श्री शिव मंदिर",
+    "lat": 28.7150267,
+    "lon": 77.2180711,
+    "deity": "",
+    "website": "",
+    "phone": "01127655942",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postcode": "110009"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 42360405,
+    "osm_type": "way",
+    "name": "Sri Sri Radha Parthasarathi Mandir",
+    "name_hindi": "",
+    "lat": 28.555886,
+    "lon": 77.2538679,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 80418121,
+    "osm_type": "way",
+    "name": "Shri Harihar Udaseen Ashram",
+    "name_hindi": "श्री हरिहर उदासीन आश्रम",
+    "lat": 28.6436424,
+    "lon": 77.2263858,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 89814445,
+    "osm_type": "way",
+    "name": "Kali Mandir;Kali Bari Mandir",
+    "name_hindi": "",
+    "lat": 28.5367679,
+    "lon": 77.2475278,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 154327253,
+    "osm_type": "way",
+    "name": "TEMPLE KG-3",
+    "name_hindi": "",
+    "lat": 28.6333034,
+    "lon": 77.0780894,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 154708937,
+    "osm_type": "way",
+    "name": "Jagannath Temple",
+    "name_hindi": "",
+    "lat": 28.5533448,
+    "lon": 77.1999646,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 197015028,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6753049,
+    "lon": 77.3797554,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 220387344,
+    "osm_type": "way",
+    "name": "Gulabi Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5916374,
+    "lon": 77.2404487,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 222468242,
+    "osm_type": "way",
+    "name": "Shri Anandpur Satsang Ashram",
+    "name_hindi": "",
+    "lat": 28.6194948,
+    "lon": 77.0368036,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 260508113,
+    "osm_type": "way",
+    "name": "Shri Omkareshvar Mahadev Mandir",
+    "name_hindi": "श्री ओंकारेश्वरमहादेव मंदिर",
+    "lat": 28.6310927,
+    "lon": 77.2808953,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 262082589,
+    "osm_type": "way",
+    "name": "Temple",
+    "name_hindi": "",
+    "lat": 28.5273533,
+    "lon": 77.2541947,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 263313404,
+    "osm_type": "way",
+    "name": "जय जय पार्श्वनाथ दिगंबर जैन मंदिर",
+    "name_hindi": "",
+    "lat": 28.6204108,
+    "lon": 77.0188243,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 264726376,
+    "osm_type": "way",
+    "name": "Iskcon Temple",
+    "name_hindi": "",
+    "lat": 28.6006841,
+    "lon": 77.0365926,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 265816725,
+    "osm_type": "way",
+    "name": "Katlarmod Ganj Anaj Mandir",
+    "name_hindi": "",
+    "lat": 28.6607763,
+    "lon": 77.2139605,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 288637739,
+    "osm_type": "way",
+    "name": "Shri Aishwarya Maha Ganpati Temple",
+    "name_hindi": "",
+    "lat": 28.68618,
+    "lon": 77.1552069,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 290150877,
+    "osm_type": "way",
+    "name": "Sur Yamuna Ghat",
+    "name_hindi": "",
+    "lat": 28.7102026,
+    "lon": 77.2298781,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 297693707,
+    "osm_type": "way",
+    "name": "Kali Temple",
+    "name_hindi": "",
+    "lat": 28.5265957,
+    "lon": 77.1563216,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Bhagwan Mahavir Marg",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110070"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 300246336,
+    "osm_type": "way",
+    "name": "Balaji Temple",
+    "name_hindi": "",
+    "lat": 28.7302085,
+    "lon": 77.1070442,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Sector - 11, Rohini, Delhi",
+      "state": "",
+      "postcode": "110085"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 302531611,
+    "osm_type": "way",
+    "name": "Pracheen Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6258378,
+    "lon": 77.2752293,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 302533611,
+    "osm_type": "way",
+    "name": "Shree 1008 Mahavira Swami Digambar Jain Temple",
+    "name_hindi": "",
+    "lat": 28.6335077,
+    "lon": 77.2862688,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 313547224,
+    "osm_type": "way",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5528562,
+    "lon": 77.1298474,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 345666367,
+    "osm_type": "way",
+    "name": "Siddhivinayak Ganesh Temple",
+    "name_hindi": "",
+    "lat": 28.6114263,
+    "lon": 77.3365869,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 348222646,
+    "osm_type": "way",
+    "name": "Nav Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.5827423,
+    "lon": 77.2269497,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 348222768,
+    "osm_type": "way",
+    "name": "Sai Baba Mandir",
+    "name_hindi": "",
+    "lat": 28.589309,
+    "lon": 77.2288827,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 350080914,
+    "osm_type": "way",
+    "name": "Shri Lakshmi Narain Mandir",
+    "name_hindi": "",
+    "lat": 28.5424306,
+    "lon": 77.2542481,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 350503235,
+    "osm_type": "way",
+    "name": "Shree Sanatan Dharm Mandir",
+    "name_hindi": "",
+    "lat": 28.6188952,
+    "lon": 77.0666034,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110059"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 350797303,
+    "osm_type": "way",
+    "name": "Maha Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.752394,
+    "lon": 77.1742256,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351066178,
+    "osm_type": "way",
+    "name": "Arya Samaj Temple",
+    "name_hindi": "",
+    "lat": 28.6899737,
+    "lon": 77.1853528,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351111090,
+    "osm_type": "way",
+    "name": "Bhairon Mandir",
+    "name_hindi": "",
+    "lat": 28.5090245,
+    "lon": 77.1956086,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351120001,
+    "osm_type": "way",
+    "name": "Shiv Mandir, Nistoli",
+    "name_hindi": "शिव मंदिर, निस्तौली",
+    "lat": 28.7220953,
+    "lon": 77.3451776,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Nistoli",
+      "city": "",
+      "state": "Uttar Pradesh",
+      "postcode": "201003"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351126948,
+    "osm_type": "way",
+    "name": "Temple Ground",
+    "name_hindi": "",
+    "lat": 28.6384346,
+    "lon": 77.1142062,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351157494,
+    "osm_type": "way",
+    "name": "Shri Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.6009809,
+    "lon": 77.2925192,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351174164,
+    "osm_type": "way",
+    "name": "Laxmi Narayan Mandir",
+    "name_hindi": "",
+    "lat": 28.6795685,
+    "lon": 77.0826324,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351418513,
+    "osm_type": "way",
+    "name": "Shri Durga Mandir",
+    "name_hindi": "",
+    "lat": 28.6383996,
+    "lon": 77.2963476,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351584572,
+    "osm_type": "way",
+    "name": "Shri Krishna Sanatan Dharam Mandir",
+    "name_hindi": "",
+    "lat": 28.6292776,
+    "lon": 77.0918449,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Janak Puri",
+      "city": "",
+      "state": "",
+      "postcode": "110058"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351612299,
+    "osm_type": "way",
+    "name": "Shree Shiv Sanatan Dharm Mandir",
+    "name_hindi": "",
+    "lat": 28.7134853,
+    "lon": 77.1741269,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110033"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 351617276,
+    "osm_type": "way",
+    "name": "Arya Samaj Mandir",
+    "name_hindi": "",
+    "lat": 28.5896864,
+    "lon": 77.3562701,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Sector 33",
+      "city": "Noida",
+      "state": "",
+      "postcode": "201307"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 354785535,
+    "osm_type": "way",
+    "name": "shiv chowk",
+    "name_hindi": "",
+    "lat": 28.6869933,
+    "lon": 77.3410222,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 354812053,
+    "osm_type": "way",
+    "name": "Shri Kshitriya Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.6675903,
+    "lon": 77.319643,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 355080007,
+    "osm_type": "way",
+    "name": "Santoshi Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.671935,
+    "lon": 77.2841993,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Gali No. 5",
+      "city": "delhi",
+      "state": "",
+      "postcode": "110032"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 402325761,
+    "osm_type": "way",
+    "name": "Hanuman Temple",
+    "name_hindi": "",
+    "lat": 28.5668882,
+    "lon": 77.3414904,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 428222118,
+    "osm_type": "way",
+    "name": "Arya Samaj Mandir",
+    "name_hindi": "",
+    "lat": 28.6638754,
+    "lon": 77.0888398,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 456875787,
+    "osm_type": "way",
+    "name": "Shirdi Sai Baba Temple",
+    "name_hindi": "",
+    "lat": 28.4943273,
+    "lon": 77.1039854,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 461570591,
+    "osm_type": "way",
+    "name": "bhumiya temple",
+    "name_hindi": "",
+    "lat": 28.5148083,
+    "lon": 77.2653159,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 533892896,
+    "osm_type": "way",
+    "name": "hanuman mandir",
+    "name_hindi": "",
+    "lat": 28.6368307,
+    "lon": 77.3426181,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 608015619,
+    "osm_type": "way",
+    "name": "Mandir",
+    "name_hindi": "",
+    "lat": 28.6297302,
+    "lon": 77.37231,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 636796172,
+    "osm_type": "way",
+    "name": "Balaji Temple",
+    "name_hindi": "",
+    "lat": 28.5866309,
+    "lon": 77.2166124,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 686097775,
+    "osm_type": "way",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.512229,
+    "lon": 77.074061,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 693685364,
+    "osm_type": "way",
+    "name": "Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.6881398,
+    "lon": 77.3205063,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 750511400,
+    "osm_type": "way",
+    "name": "Peer Baba Makhan Shah Sthal",
+    "name_hindi": "",
+    "lat": 28.5096189,
+    "lon": 77.3280037,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Jaitpur Pushta Road, Jaitpur",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110044"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 770634334,
+    "osm_type": "way",
+    "name": "Shiv Shakti Mandir",
+    "name_hindi": "",
+    "lat": 28.5766585,
+    "lon": 77.2388616,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 782400649,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5907674,
+    "lon": 77.0608372,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Sector 6 Dwarka, New Delhi",
+      "state": "",
+      "postcode": "110075"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 818972997,
+    "osm_type": "way",
+    "name": "Vishnu temple",
+    "name_hindi": "",
+    "lat": 28.4761095,
+    "lon": 77.1305859,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110047"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 870335640,
+    "osm_type": "way",
+    "name": "Sai Baba Mandir",
+    "name_hindi": "",
+    "lat": 28.5982657,
+    "lon": 77.2984502,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 909982241,
+    "osm_type": "way",
+    "name": "Temple",
+    "name_hindi": "",
+    "lat": 28.5771014,
+    "lon": 77.0425909,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 970814410,
+    "osm_type": "way",
+    "name": "Arya Samaj Temple",
+    "name_hindi": "",
+    "lat": 28.6840555,
+    "lon": 77.1866855,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1158661736,
+    "osm_type": "way",
+    "name": "Prachin Shiv Durga Mandir",
+    "name_hindi": "प्राचीन शिव दुर्गा मंदिर",
+    "lat": 28.7405592,
+    "lon": 77.163431,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1174536143,
+    "osm_type": "way",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.754376,
+    "lon": 77.1628072,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1176576156,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.725056,
+    "lon": 77.161185,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1186001922,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6798456,
+    "lon": 77.285326,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1234306672,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6983594,
+    "lon": 77.2752831,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Between Block C-8 and Block  C-10 Yamuna Vihar",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110053"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1239354848,
+    "osm_type": "way",
+    "name": "Shri Balaji Mandir",
+    "name_hindi": "",
+    "lat": 28.7382055,
+    "lon": 77.1099608,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1255371342,
+    "osm_type": "way",
+    "name": "प्राचीन शिव हनुमान मंदिर",
+    "name_hindi": "",
+    "lat": 28.6093781,
+    "lon": 77.3731255,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1256900406,
+    "osm_type": "way",
+    "name": "Vuddho Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.6879657,
+    "lon": 77.1939089,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1286191670,
+    "osm_type": "way",
+    "name": "Shri Mokshdata",
+    "name_hindi": "",
+    "lat": 28.6065324,
+    "lon": 77.1285918,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1286500702,
+    "osm_type": "way",
+    "name": "Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6633762,
+    "lon": 77.2772524,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1289133518,
+    "osm_type": "way",
+    "name": "Shiv Mandir Smiti and Dharamshala",
+    "name_hindi": "",
+    "lat": 28.6002413,
+    "lon": 77.3181242,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1290640393,
+    "osm_type": "way",
+    "name": "Sidh Shakti Peeth",
+    "name_hindi": "",
+    "lat": 28.5870217,
+    "lon": 77.1182582,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1293371911,
+    "osm_type": "way",
+    "name": "Hanuman Aur Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.5966758,
+    "lon": 77.1331402,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1295566263,
+    "osm_type": "way",
+    "name": "Shri Shyam Mandir",
+    "name_hindi": "",
+    "lat": 28.6097663,
+    "lon": 77.1074159,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1298020864,
+    "osm_type": "way",
+    "name": "Babosa Mandir",
+    "name_hindi": "",
+    "lat": 28.7285456,
+    "lon": 77.0906417,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1298513469,
+    "osm_type": "way",
+    "name": "Pracheen Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5757206,
+    "lon": 77.1963761,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1317383071,
+    "osm_type": "way",
+    "name": "Brahmachari Lal Langot Dhari Mandir",
+    "name_hindi": "",
+    "lat": 28.5916207,
+    "lon": 77.1255625,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1318424633,
+    "osm_type": "way",
+    "name": "Delhi Cantt Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.596296,
+    "lon": 77.1397252,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1320953296,
+    "osm_type": "way",
+    "name": "Pracheen Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6655835,
+    "lon": 77.2087537,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "DL",
+      "postcode": "110006"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1355299965,
+    "osm_type": "way",
+    "name": "Sidh Pracheen Shiv Mandir",
+    "name_hindi": "",
+    "lat": 28.6242325,
+    "lon": 77.2059591,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1362943961,
+    "osm_type": "way",
+    "name": "Shri Chaumukha Mandir",
+    "name_hindi": "श्री चौमुखा मन्दिर",
+    "lat": 28.6500603,
+    "lon": 77.2271625,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1364315740,
+    "osm_type": "way",
+    "name": "Kali Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.6459744,
+    "lon": 77.3488646,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1385084092,
+    "osm_type": "way",
+    "name": "Sheetal Mata Mandir",
+    "name_hindi": "",
+    "lat": 28.583397,
+    "lon": 77.1728396,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1386957475,
+    "osm_type": "way",
+    "name": "Valmiki Mandir",
+    "name_hindi": "",
+    "lat": 28.640719,
+    "lon": 77.203153,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1388569373,
+    "osm_type": "way",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.674174,
+    "lon": 77.2749185,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1388700957,
+    "osm_type": "way",
+    "name": "Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.5291568,
+    "lon": 77.2024725,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1391511506,
+    "osm_type": "way",
+    "name": "Shri Batuk Bhairav Temple",
+    "name_hindi": "",
+    "lat": 28.5920966,
+    "lon": 77.1946163,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1408751781,
+    "osm_type": "way",
+    "name": "Pracheen Shri Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.6820992,
+    "lon": 77.2086291,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1414952266,
+    "osm_type": "way",
+    "name": "Ram Mandir",
+    "name_hindi": "",
+    "lat": 28.5657239,
+    "lon": 77.1888611,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1416547705,
+    "osm_type": "way",
+    "name": "Hari Om Mandir",
+    "name_hindi": "हरी ओम मन्दिर",
+    "lat": 28.5636674,
+    "lon": 77.2350531,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1428321044,
+    "osm_type": "way",
+    "name": "Hanuman Mandir",
+    "name_hindi": "",
+    "lat": 28.5733981,
+    "lon": 77.120549,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "Thimayya Marg, Delhi Cantt",
+      "city": "New Delhi",
+      "state": "",
+      "postcode": "110010"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1444070048,
+    "osm_type": "way",
+    "name": "Kali Badi Mandir",
+    "name_hindi": "",
+    "lat": 28.5938879,
+    "lon": 77.3056099,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "New Ashok Nagar Rd, Nala Rd",
+      "city": "Delhi",
+      "state": "",
+      "postcode": "110096"
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  },
+  {
+    "osm_id": 1464087040,
+    "osm_type": "way",
+    "name": "Gulabi Bagh Temple",
+    "name_hindi": "",
+    "lat": 28.6732734,
+    "lon": 77.1872853,
+    "deity": "",
+    "website": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "postcode": ""
+    },
+    "source": "OpenStreetMap",
+    "search_city": "Delhi"
+  }
+]

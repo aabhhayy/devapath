@@ -1,0 +1,29 @@
+# ==========================================
+# DevaPath — AI Temple Guide
+# pip install -r requirements.txt
+# ==========================================
+
+# --- Scraping ---
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0          # BS4 ka fast parser
+
+# --- Data Handling ---
+pandas==2.2.0
+
+# --- RAG Pipeline (baad me kaam aayega) ---
+langchain==0.1.9
+langchain-groq==0.1.3
+chromadb==0.4.22
+sentence-transformers==2.5.1
+
+# --- Streamlit App ---
+streamlit==1.32.0
+streamlit-folium==0.18.0
+folium==0.16.0
+
+# --- Text to Speech ---
+gtts==2.5.1
+
+# --- Environment Variables ---
+python-dotenv==1.0.1
